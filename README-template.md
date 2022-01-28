@@ -25,8 +25,8 @@ Coding this challenge was fairly easy on the HTML side, but I'd found the CSS pa
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/santino-majur/qr-code-component)
+- Live Site URL: [Add live site URL here](https://santino-majur.github.io/qr-code-component/)
 
 ## My process
 The process I used to get the work done was first to display all the content using HTML and then proceeded with the stylings.
